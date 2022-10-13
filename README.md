@@ -7,4 +7,6 @@ Your task is to perform an initial data and exploratory
 analysis of some of their data in order to derive insights and suggest strategies for better
 segmentation based on the provided criteria.
 # Data
+Opened source from Instacart website
+https://www.instacart.com/datasets/grocery-shopping-2017
 # Result
